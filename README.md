@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahanawaz
+- 🌱 I’m a Frontend Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me - shahanawaz2299@gmail.com
 
 <!---
