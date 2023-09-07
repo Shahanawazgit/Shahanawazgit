@@ -1,4 +1,5 @@
 <h1 align="left"> Hi there 👋 I'm Shahanawaz Pathan </h1>
+
 - 👨🏻‍💻 Frontend Developer
 - 🧠 Extensive knowledge and experience in React JS, HTML, CSS, JavaScript, and Bootstrap. Familiar with Git and GitHub for effective collaboration and version control.
 - 🤔 Always learning and experimenting
