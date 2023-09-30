@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there 👋 I'm Shahanawaz Pathan </h1>
 
 - 👨🏻‍💻 Frontend Developer
-- 🧠 Extensive knowledge and experience in React JS, HTML, CSS, JavaScript, and Bootstrap. Familiar with Git and GitHub for effective collaboration and version control.
+- 🧠 Extensive knowledge and experience in React.js, Bootstrap, Next.js, Tailwind CSS, HTML, CSS, and JavaScript. I use Git and GitHub for effective collaboration and version control.
 - 🤔 Always learning and experimenting
 - 🛣️ Demonstrated expertise in time management, leadership, and collaboration
 - ✨ Solve practical, real-world problems
